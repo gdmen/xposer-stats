@@ -1,0 +1,7 @@
+<?php
+  $MySQLuser="";
+  $MySQLpass="";
+  $MySQLhost="";
+  $MySQLport="3306";
+  $MySQLdatabase="";
+?>

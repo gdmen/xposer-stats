@@ -1,0 +1,6 @@
+# Editor files
+*.swp
+
+# Secret files
+config.php
+deploy.mk
